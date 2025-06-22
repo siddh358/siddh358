@@ -41,10 +41,5 @@
 </picture>
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddh358&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=siddh358&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

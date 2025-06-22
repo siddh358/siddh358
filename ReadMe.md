@@ -41,5 +41,8 @@
 </picture>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=YOU+HAVE+BEEN+HACKED+!+💀;HaCkEr+404+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 

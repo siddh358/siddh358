@@ -1,8 +1,8 @@
 # 🛡️Hi I'am SIDDHARTH !
 
-👨‍💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker & Forensics Analyst
-🔐 Investigating threats, securing systems | 🧠 Passionate about cybercrime and ops
-🎯 Currently sharpening skills at Safe Your Web via real-world tasks & CTFs
+👨‍💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker & Forensics Analyst <br>
+🔐 Investigating threats, securing systems | 🧠 Passionate about cybercrime and ops <br>
+🎯 Currently sharpening skills at Safe Your Web via real-world tasks & CTFs <br>
 🤝 <b>I'm looking to collaborate on:</b><br>- Open-source cybersecurity tools<br>- Forensics-based automation projects<br>- Capture The Flag (CTF) team challenges<br><br> <div align="center"><strong><em>"Hackers don’t break in — they log in."</em></strong></div>
 
 ## 🌐 Socials:

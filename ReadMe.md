@@ -1,4 +1,7 @@
 # 🛡️Hi I'am SIDDHARTH !
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=ERROR+404+NOT+FOUND+!+%F0%9F%92%80;alt="Typing SVG" />
+</p>
 
 👨‍💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker & Forensics Analyst <br>
 🔐 Investigating threats, securing systems | 🧠 Passionate about cybercrime and ops <br>

@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddh358&label=Profile%20Views&color=7FFF00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=siddh358&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/siddh358?style=for-the-badge&label=Stars&color=FF0000" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/siddh358?style=for-the-badge&label=Followers&color=8A2BE2" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Joined%20GitHub-2022-2E2E2E?style=for-the-badge&logo=github&logoColor=white" alt="Joined GitHub" />

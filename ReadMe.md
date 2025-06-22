@@ -5,7 +5,7 @@
 🎯 Currently sharpening skills at Safe Your Web via real-world tasks & CTFs <br>
 🤝 <b>I'm looking to collaborate on:</b><br>- Open-source cybersecurity tools<br>- Forensics-based automation projects<br>- Capture The Flag (CTF) team challenges<br><br> <div align="center"><strong><em>"Hackers don’t break in — they log in."</em></strong></div><br>
 ------
-<p align="center">
+<br><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Balram-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/Balram-1?style=for-the-badge&label=Stars" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Balram-1?style=for-the-badge&label=Followers" alt="GitHub Followers" />

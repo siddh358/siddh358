@@ -1,4 +1,4 @@
-# 🛡️HI I'AM SIDDHARTH !
+# 🛡️Hi I'am SIDDHARTH !
 
 👨‍💻 <b>About Me :</b> <br>💼 I'm a Cybersecurity Enthusiast an Ethical hacker, Forensics Expert, Cyber crime Investigator and passionate about security operations.<br>🔍 Currently sharpening my skills through Hack The Box modules, CTFs, and real-world security tasks during my internship at Safe Your Web.<br>🛡️ Proficient with Kali Linux and tools like Nmap, Burp Suite, Wireshark, Metasploit, Autopsy, and more.<br><br>🚀 <b>I'm currently working on:</b><br>- Vulnerability assessments and penetration testing (VAPT)<br>- Cloud security tasks (posture auditing, incident response)<br>- API pentesting and reporting<br>- CTFs and HTB modules<br><br>🤝 <b>I'm looking to collaborate on:</b><br>- Open-source cybersecurity tools<br>- Forensics-based automation projects<br>- Capture The Flag (CTF) team challenges<br><br> <div align="center"><strong><em>"Hackers don’t break in — they log in."</em></strong></div>
 

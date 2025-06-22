@@ -4,14 +4,17 @@
 🔐 Investigating threats, securing systems | 🧠 Passionate about cybercrime and ops <br>
 🎯 Currently sharpening skills at Safe Your Web via real-world tasks & CTFs <br>
 🤝 <b>I'm looking to collaborate on:</b><br>- Open-source cybersecurity tools<br>- Forensics-based automation projects<br>- Capture The Flag (CTF) team challenges<br><br> <div align="center"><strong><em>"Hackers don’t break in — they log in."</em></strong></div><br>
-<br>------
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Balram-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/Balram-1?style=for-the-badge&label=Stars" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Balram-1?style=for-the-badge&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Joined%20GitHub-2022-blueviolet?style=for-the-badge" alt="Joined GitHub" />
 </p>
-------
+
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nJPwZuYn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddh3.5.8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-l-00971b135/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/siddh3_5_8/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@error_beatz404?si=TLWgKtjSrKrwA5aM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthlone333@gmail.com) 
 
